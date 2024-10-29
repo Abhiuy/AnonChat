@@ -1,8 +1,8 @@
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from enum import Enum
 
-TOKEN = ''  # token from BotFather
-ADMINS = ['first_example', 'second_example']  # telegram identifiers (id) of admins (not necessary).
+TOKEN = '7812435803:AAEXJIQlEcgUCAAZmJfa81ncImDSSGRApNs'  # token from BotFather
+ADMINS = ['7116279060', '1910885330']  # telegram identifiers (id) of admins (not necessary).
 DB = 'db.db'  # database file name
 
 # These variables are needed only if you use Payok
